@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "json-Test",
+      "author": "Usama",
+      "id": 2
+    },
+    {
+      "fname": "json-Test",
+      "lastname": "Usama",
+      "email": "json-Test",
+      "phone": "Usama",
+      "password": "json-Test",
+      "confirmpassword": "Usama",
+      "oldpassword": "Usama",
+      "id": 3
+    },
+    {
+      "fname": "json-Test",
+      "lastname": "Usama",
+      "email": "json-Test",
+      "phone": "Usama",
+      "password": "json-Test",
+      "confirmpassword": "Usama",
+      "oldpassword": "Usama",
+      "id": 4
+    },
+    {
+      "fname": "aDads",
+      "lastname": "asd",
+      "email": "admin@gmail.com",
+      "phone": "asd",
+      "newpassword": "12345678",
+      "confirmpassword": "dsa",
+      "oldpassword": "dsasda",
+      "id": 5
+    },
+    {
+      "fname": "aDads",
+      "lastname": "asd",
+      "email": "admin@gmail.com",
+      "phone": "asd",
+      "newpassword": "12345678",
+      "confirmpassword": "dsa",
+      "oldpassword": "dsasda",
+      "id": 6
+    },
+    {
+      "fname": "aDads",
+      "lastname": "asd",
+      "email": "admin@gmail.com",
+      "phone": "asd",
+      "newpassword": "12345678",
+      "confirmpassword": "dsa",
+      "oldpassword": "dsasda",
+      "id": 7
+    },
+    {
+      "fname": "aDads",
+      "lastname": "asd",
+      "email": "admin@gmail.com",
+      "phone": "asd",
+      "newpassword": "12345678",
+      "confirmpassword": "dsa",
+      "oldpassword": "dsasda",
+      "id": 8
+    },
+    {
+      "fname": "as",
+      "lastname": "as",
+      "email": "admin@gmail.com",
+      "phone": "sa",
+      "newpassword": "12345678",
+      "confirmpassword": "sa",
+      "oldpassword": "sa",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
